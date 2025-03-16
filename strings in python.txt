@@ -1,0 +1,7 @@
+Learning Python Programming
+Introduction to Strings
+Things to remember:
+>> All of the datatypes we review are gonna have certain methods available to us that give us access to a lot of useful functionality.
+>> People often get confused between methods and functions in python, both are basically the same things. A method is just a function that belongs to an object.
+>> To find what methods are available to us, we use print(dir(variable)). And it will open terminal there we can see all the attributes and functions available.
+>> To see what any of those particular attribute does, we use print(help(str)). And it will open terminal there we can see what each method does and how does it work
